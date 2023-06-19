@@ -1,0 +1,138 @@
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2021\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.TrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.CopyComplete
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-March15-2022 - TrendView\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.CopyComplete
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.TrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.TrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.CopyComplete
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v2\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.OneTrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.OneTrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.TrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.CopyComplete
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_v7\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe.config
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\AutobolterSim_cs.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csprojAssemblyReference.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form1.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Form2.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.OneTrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.Properties.Resources.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.TrendForm.resources
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.GenerateResource.cache
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.csproj.CopyComplete
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.exe
+C:\Users\xluo1\source\repos\AutobolterSim_cs - NEW-April20-2022_ImprovedBase\AutobolterSim_cs\obj\Debug\AutobolterSim_cs.pdb

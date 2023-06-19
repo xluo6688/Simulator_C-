@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutobolterSim_cs", "AutobolterSim_cs\AutobolterSim_cs.csproj", "{A0E0A084-3FC1-41AB-838D-7DEAE02AE562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E0A084-3FC1-41AB-838D-7DEAE02AE562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E0A084-3FC1-41AB-838D-7DEAE02AE562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E0A084-3FC1-41AB-838D-7DEAE02AE562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E0A084-3FC1-41AB-838D-7DEAE02AE562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67F90A26-E1EA-43FF-B76C-D649C01160F5}
+	EndGlobalSection
+EndGlobal
